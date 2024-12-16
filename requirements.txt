@@ -1,4 +1,0 @@
-matplotlib==3.9.2
-matplotlib-inline==0.1.7
-numpy==1.23.5
-numpydoc @ file:///work/ci_py311/numpydoc_1676845056742/work
